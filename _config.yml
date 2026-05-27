@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 Research keywords: Robotics, Tactile sensing, Tomographic imaging, Soft robotics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/jh.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://junhwicho.github.io # the base hostname & protocol for your site
 baseurl:
