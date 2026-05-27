@@ -1,7 +1,8 @@
 ---
 ---
 
-.profile.float-right img,
 .profile img {
-  max-width: 120px;
+  width: 120px !important;
+  max-width: 100% !important;
+  height: auto !important;
 }
