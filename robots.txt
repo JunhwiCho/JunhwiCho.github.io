@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JunhwiCho.github.io/sitemap.xml
+Sitemap: https://junhwicho.github.io/sitemap.xml
