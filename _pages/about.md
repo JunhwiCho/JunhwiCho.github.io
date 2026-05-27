@@ -32,7 +32,9 @@ Hi! I'm a Ph.D. student in Mechanical Engineering at [KAIST](https://kaist.ac.kr
 My research interest focuses on **tactile sensing** and **whole-body robotic skin** for advanced physical human-robot interactions(pHRI).
 
 <div style="text-align: center;" markdown="1">
+  
 CV / [Email](mailto:juhwhi.cho@kaist.ac.kr) / [Google Scholar](https://scholar.google.co.kr/citations?user=2qPCEnEAAAAJ&hl=ko) / [LinkedIn](https://www.linkedin.com/in/junhwi-cho-7a9638335/) 
+
 </div>
 
 <!--
