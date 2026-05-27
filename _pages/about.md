@@ -33,7 +33,7 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
 
 <div style="text-align: center;" markdown="1">
   
-CV / [Email](mailto:juhwhi.cho@kaist.ac.kr) / [Google Scholar](https://scholar.google.co.kr/citations?user=2qPCEnEAAAAJ&hl=ko) / [LinkedIn](https://www.linkedin.com/in/junhwi-cho-7a9638335/) 
+[CV](/assets/pdf/Junhwi Cho_curriculum_vitae_260527.pdf) / [Email](mailto:juhwhi.cho@kaist.ac.kr) / [Google Scholar](https://scholar.google.co.kr/citations?user=2qPCEnEAAAAJ&hl=ko) / [LinkedIn](https://www.linkedin.com/in/junhwi-cho-7a9638335/) 
 
 </div>
 
