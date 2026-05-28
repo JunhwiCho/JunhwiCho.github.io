@@ -62,12 +62,11 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
 {% for edu in sorted_education %}
   <div class="row mb-2">
     <div class="col-sm-3">
-      <strong>{{ edu.date | date: "%Y" }} – {{ edu.end_date }}</strong>
+      <strong>{{ edu.date }} – {{ edu.end_date }}</strong>
     </div>
     <div class="col-sm-9">
-      <strong>{{ edu.title }}</strong><br>
-      {{ edu.institution }}<br>
-      <em>{{ edu.description }}</em>
+      <strong>{{ edu.title }}, {{ edu.institution }}</strong>
+      {% if edu.description %}<br><em>{{ edu.description }}</em>{% endif %}
     </div>
   </div>
 {% endfor %}
