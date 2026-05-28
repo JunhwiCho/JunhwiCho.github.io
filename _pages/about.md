@@ -55,6 +55,26 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
 
 </div>
 
+## Education
+
+<div class="education">
+{% assign sorted_education = site.education | sort: 'date' %}
+{% for edu in sorted_education %}
+  <div class="row mb-2">
+    <div class="col-sm-3">
+      <strong>{{ edu.date | date: "%Y" }} – {{ edu.end_date }}</strong>
+    </div>
+    <div class="col-sm-9">
+      <strong>{{ edu.title }}</strong><br>
+      {{ edu.institution }}<br>
+      <em>{{ edu.description }}</em>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
