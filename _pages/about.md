@@ -26,13 +26,16 @@ latest_posts:
 ---
 
 <style>
-.profile img {
+.profile.float-right picture,
+.profile.float-right img {
   width: 180px !important;
-  max-width: 100% !important;
+  max-width: 180px !important;
   height: auto !important;
+  display: inline-block !important;
 }
-.profile {
+.profile.float-right figure {
   text-align: center;
+  margin: 0 auto;
 }
 nav.navbar {
   display: none !important;
