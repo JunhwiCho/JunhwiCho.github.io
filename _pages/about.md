@@ -33,6 +33,9 @@ latest_posts:
   height: auto !important;
   display: inline-block !important;
 }
+.profile.float-right {
+  margin-top: -80px !important;
+}
 .profile.float-right figure {
   text-align: center;
   margin: 0 auto;
