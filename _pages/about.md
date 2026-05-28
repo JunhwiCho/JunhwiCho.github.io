@@ -67,11 +67,11 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
     <div class="col-sm-9">
       <strong>{{ edu.title }}, {{ edu.institution }}</strong>
       {% if edu.description %}<br><em>{{ edu.description }}</em>{% endif %}
+      {% if edu.thesis %}<br>Thesis: <em>{{ edu.thesis }}</em>{% endif %}
     </div>
   </div>
 {% endfor %}
 </div>
-
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
