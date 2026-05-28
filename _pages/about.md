@@ -58,11 +58,11 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
 ## Education
 
 <div class="education">
-{% assign sorted_education = site.education | sort: 'date' %}
+{% assign sorted_education = site.education | sort: 'date' | reverse %}
 {% for edu in sorted_education %}
   <div class="row mb-2">
     <div class="col-sm-3">
-      <strong>{{ edu.date }} – {{ edu.end_date }}</strong>
+      <strong>{{ edu.date_display }} – {{ edu.end_date }}</strong>
     </div>
     <div class="col-sm-9">
       <strong>{{ edu.title }}, {{ edu.institution }}</strong>
@@ -71,7 +71,6 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
   </div>
 {% endfor %}
 </div>
-
 
 
 <!--
