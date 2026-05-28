@@ -25,6 +25,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+.profile img {
+  width: 180px !important;
+  max-width: 100% !important;
+  height: auto !important;
+}
+</style>
+
 Hi! I'm a Ph.D. student in Mechanical Engineering at [KAIST](https://kaist.ac.kr/kr/). I am advised by Prof. [Jung Kim](https://scholar.google.co.kr/citations?user=Xdnc5IMAAAAJ&hl=ko&oi=ao) in [Biorobotics Lab](https://biorobotics.kaist.ac.kr/).
 
 My research interest focuses on **tactile sensing** and **whole-body robotic skin** for advanced physical human-robot interactions (pHRI).
