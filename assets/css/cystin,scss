@@ -1,0 +1,1 @@
+@import "main"; .profile img { width: 180px !important; max-width: 100% !important; height: auto !important; }
