@@ -187,6 +187,8 @@ newsletter:
 collections:
   books:
     output: true
+  education:
+    output: true
   news:
     defaults:
       layout: post
