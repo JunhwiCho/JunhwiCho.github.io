@@ -66,8 +66,8 @@ My research interest focuses on **tactile sensing** and **whole-body robotic ski
     </div>
     <div class="col-sm-9">
       <strong>{{ edu.title }}, {{ edu.institution }}</strong>
-      {% if edu.description %}<br><em>{{ edu.description }}</em>{% endif %}
-      {% if edu.thesis %}<br>Thesis: <em>{{ edu.thesis }}</em>{% endif %}
+      {% if edu.description %}<br>{{ edu.description }}{% endif %}
+      {% if edu.thesis %}<br>(Thesis: {{ edu.thesis }}){% endif %}
     </div>
   </div>
 {% endfor %}
